@@ -190,9 +190,10 @@ footer{
     margin-left: 25px;
     margin-top: 50px;
 }
-.div_footer > h6{
+.div_footer > a{
     display: inline;
     margin-right: 1.06%;
+    color:white;
 }
 .div2_footer {
     margin-top: 68px;
